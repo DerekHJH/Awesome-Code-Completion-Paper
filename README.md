@@ -5,6 +5,37 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 ## Surveys on Code Completion
 
+<table width="90px" style="table-layout:fixed; overflow-x: hidden; width:90px;">
+<thead>
+<tr>
+<th>Title</th>
+<th>Publication</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<th>Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3491101.3519665">CHI EA 2022</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Productivity Assessment of Neural Code Completion</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3520312.3534864">MAPS 2022</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>When Code Completion Fails: Case Study on Real-World Completions</th>
+<th><a href="https://ieeexplore.ieee.org/document/8812116">ICSE 2019</a></th>
+</tr>
+</tbody>
+
+</table>
+
 ## Methods on Code Completion
 
 <table width="90px" style="table-layout:fixed; overflow-x: hidden; width:90px;">
