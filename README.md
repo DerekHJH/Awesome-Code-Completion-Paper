@@ -3,7 +3,7 @@ This repo collects and categorizes code-completion-related papers on different c
 
 Currently the joint table is in progress, and contributions are more than welcomed.
 
-## Surveys on Code Completion
+## Studies on Code Completion
 
 <table width="90px" style="table-layout:fixed; overflow-x: hidden; width:90px;">
 <thead>
@@ -24,6 +24,13 @@ Currently the joint table is in progress, and contributions are more than welcom
 <tr>
 <th>Productivity Assessment of Neural Code Completion</th>
 <th><a href="https://dl.acm.org/doi/10.1145/3520312.3534864">MAPS 2022</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>An Empirical Study on the Usage of BERT Models for Code Completion</th>
+<th><a href="https://ieeexplore.ieee.org/document/9463129">MSR 2021</a></th>
 </tr>
 </tbody>
 
@@ -190,6 +197,13 @@ Currently the joint table is in progress, and contributions are more than welcom
 <tr>
 <th>Probabilistic Model for Code with Decision Trees</th>
 <th><a href="https://dl.acm.org/doi/10.1145/2983990.2984041">OOPSLA 2016</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Graph-Based Statistical Language Model for Code</th>
+<th><a href="https://ieeexplore.ieee.org/document/7194632">ICSE 2015</a></th>
 </tr>
 </tbody>
 
