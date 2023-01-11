@@ -134,6 +134,62 @@ Currently the joint table is in progress, and contributions are more than welcom
 </tr>
 </tbody>
 
+<tbody>
+<tr>
+<th>Code Completion with Neural Attention and Pointer Networks</th>
+<th><a href="https://www.ijcai.org/proceedings/2018/578">IJCAI 2018</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Improving Code Autocompletion with Transfer Learning</th>
+<th><a href="https://ieeexplore.ieee.org/document/9793983/">ICSE (SEIP) 2022</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Siri, Write the Next Method</th>
+<th><a href="https://ieeexplore.ieee.org/document/9402018">ICSE 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Probabilistic Model for Code with Decision Trees</th>
+<th><a href="https://dl.acm.org/doi/10.1145/2983990.2984041">OOPSLA 2016</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>ReACC: A Retrieval-Augmented Code Completion Framework</th>
+<th><a href="https://aclanthology.org/2022.acl-long.431/">ACL 2022</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Fast and Memory-Efficient Neural Code Completion</th>
+<th><a href="https://ieeexplore.ieee.org/document/9463109">MSR 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>On the Localness of Software</th>
+<th><a href="https://dl.acm.org/doi/10.1145/2635868.2635875">FSE 2014</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Code Completion with Statistical Language Models</th>
+<th><a href="https://dl.acm.org/doi/10.1145/2594291.2594321">PLDI 2014</a></th>
+</tr>
+</tbody>
+
 
 
 
