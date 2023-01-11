@@ -14,12 +14,130 @@ Currently the joint table is in progress, and contributions are more than welcom
 <th>Publication</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
-<th>S^3: Sign-Sparse-Shift Reparametrization for Effective Training of Low-bit Shift Networks</th>
-<th><a href="https://arxiv.org/pdf/2107.03453.pdf">NeurIPS 2021</a></th>
+<th>LEARNING TO COMPLETE CODE WITH SKETCHES</th>
+<th><a href="https://openreview.net/forum?id=q79uMSC6ZBT">ICLR 2022</a></th>
 </tr>
 </tbody>
+
+<tbody>
+<tr>
+<th>Are Deep Neural Networks the Best Choice for Modeling Source Code?</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3106237.3106290">FSE 2017</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3510003.3510172">ICSE 2022</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>A Statistical Semantic Language Model for Source Code</th>
+<th><a href="https://dl.acm.org/doi/10.1145/2491411.2491458">FSE 2013</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>PHOG: Probabilistic Model for Code</th>
+<th><a href="http://proceedings.mlr.press/v48/bielik16.html">ICML 2016</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Sequence Model Design for Code Completion in the Modern IDE</th>
+<th><a href="https://arxiv.org/abs/2004.05249">CoRR 2020</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy</th>
+<th><a href="https://aclanthology.org/2021.emnlp-main.387/">EMNLP 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>On the Naturalness of Software</th>
+<th><a href="https://ieeexplore.ieee.org/document/6227135">ICSE 2012</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Combining Program Analysis and Statistical Language Model for Code Statement Completion</th>
+<th><a href="https://ieeexplore.ieee.org/document/8952235">ASE 2019</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs</th>
+<th><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17650">AAAI 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Learning Autocompletion from Real-World Datasets</th>
+<th><a href="https://ieeexplore.ieee.org/document/9402026">ICSE (SEIP) 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3387904.3389261">ICPC 2020</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>IntelliCode Compose: Code Generation using Transformer</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3368089.3417058">FSE 2020</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Code Prediction by Feeding Trees to Transformers</th>
+<th><a href="https://doi.org/10.1109/ICSE43902.2021.00026">ICSE 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>A Language Model for Statements of Software Code</th>
+<th><a href="https://ieeexplore.ieee.org/document/8115678">ASE 2017</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Multi-task Learning based Pre-trained Language Model for Code Completion</th>
+<th><a href="https://dl.acm.org/doi/10.1145/3324884.3416591">ASE 2020</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Pythia: AI-assisted Code Completion System</th>
+<th><a href="https://doi.org/10.1145/3292500.3330699">KDD 2019</a></th>
+</tr>
+</tbody>
+
+
+
+
+
 </table>
                 
                 
