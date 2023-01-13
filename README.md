@@ -16,19 +16,15 @@ Currently the joint table is in progress, and contributions are more than welcom
 <tbody>
 <tr>
 <th>An Empirical Study on the Usage of Transformer Models for Code Completion</th>
-<th><a href="https://ieeexplore.ieee.org/document/9616462">IEEE Trans. Software Eng. 48(12): 4818-4837 (2022)</a></th>
+<th><a href="https://ieeexplore.ieee.org/document/9616462">TSE 2022</a></th>
 </tr>
 </tbody>
-
-
-
-
 
 
 <tbody>
 <tr>
 <th>Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models</th>
-<th><a href="https://dl.acm.org/doi/10.1145/3491101.3519665">CHI EA 2022</a></th>
+<th><a href="https://dl.acm.org/doi/10.1145/3491101.3519665">CHI 2022</a></th>
 </tr>
 </tbody>
 
@@ -67,24 +63,11 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 <tbody>
 <tr>
-<th>A graph sequence neural architecture for code completion withsemantic structure features</th>
-<th><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/smr.2414">J. Softw. Evol. Process. 34(1) (2022)</a></th>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
 <th>A unified multi-task learning model for AST-level and token-level code completion</th>
-<th><a href="https://link.springer.com/article/10.1007/s10664-022-10140-7">Empir. Softw. Eng. 27(4): 91 (2022)</a></th>
+<th><a href="https://link.springer.com/article/10.1007/s10664-022-10140-7">EMSE 2022</a></th>
 </tr>
 </tbody>
 
-<tbody>
-<tr>
-<th>Deep Learning-Based Code Auto-Completion for Distributed Applications</th>
-<th><a href="https://link.springer.com/chapter/10.1007/978-3-031-20859-1_14">DCAI 2022</a></th>
-</tr>
-</tbody>
 
 <tbody>
 <tr>
@@ -102,15 +85,8 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 <tbody>
 <tr>
-<th>Improving Code Completion by Sequence Features and Structural Features</th>
-<th><a href="https://dl.acm.org/doi/10.1145/3568364.3568373">WSSE 2022</a></th>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
 <th>Language-parametric static semantic code completion</th>
-<th><a href="https://dl.acm.org/doi/10.1145/3527329">Proc. ACM Program. Lang. 6(OOPSLA1): 1-30 (2022)</a></th>
+<th><a href="https://dl.acm.org/doi/10.1145/3527329">OOPSLA 2022</a></th>
 </tr>
 </tbody>
 
