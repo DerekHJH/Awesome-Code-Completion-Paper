@@ -63,6 +63,13 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 <tbody>
 <tr>
+<th>Boosting source code suggestion with self-supervised Transformer Gated Highway</th>
+<th><a href="https://www.sciencedirect.com/science/article/pii/S0164121222002291">JSS 2023</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
 <th>A unified multi-task learning model for AST-level and token-level code completion</th>
 <th><a href="https://link.springer.com/article/10.1007/s10664-022-10140-7">EMSE 2022</a></th>
 </tr>
@@ -194,6 +201,13 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 <tbody>
 <tr>
+<th>Modeling programs hierarchically with stack-augmented LSTM</th>
+<th><a href="https://www.sciencedirect.com/science/article/pii/S0164121220300297">JSS 2020</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
 <th>IntelliCode Compose: Code Generation using Transformer</th>
 <th><a href="https://dl.acm.org/doi/10.1145/3368089.3417058">FSE 2020</a></th>
 </tr>
@@ -246,6 +260,13 @@ Currently the joint table is in progress, and contributions are more than welcom
 <tr>
 <th>Are Deep Neural Networks the Best Choice for Modeling Source Code?</th>
 <th><a href="https://dl.acm.org/doi/10.1145/3106237.3106290">FSE 2017</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>Design annotations to improve API discoverability</th>
+<th><a href="https://www.sciencedirect.com/science/article/pii/S016412121630262X">JSS 2017</a></th>
 </tr>
 </tbody>
 
