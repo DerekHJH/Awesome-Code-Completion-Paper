@@ -1,5 +1,5 @@
 # Awesome Code Completion Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This repo collects and categorizes code-completion-related papers on different conferences/journals/arXiv.
+This repo collects and categorizes code-completion-related papers on popular conferences and journals.
 
 Currently the joint table is in progress, and contributions are more than welcomed.
 
@@ -124,6 +124,13 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 <tbody>
 <tr>
+<th>Sequential coding patterns: How to use them effectively in code recommendation</th>
+<th><a href="https://www.sciencedirect.com/science/article/pii/S0950584921001464">IST 2021</a></th>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
 <th>ReACC: A Retrieval-Augmented Code Completion Framework</th>
 <th><a href="https://aclanthology.org/2022.acl-long.431/">ACL 2022</a></th>
 </tr>
@@ -173,8 +180,8 @@ Currently the joint table is in progress, and contributions are more than welcom
 
 <tbody>
 <tr>
-<th>Sequence Model Design for Code Completion in the Modern IDE</th>
-<th><a href="https://arxiv.org/abs/2004.05249">CoRR 2020</a></th>
+<th>CodeGRU: Context-aware deep learning with gated recurrent unit for source code modeling</th>
+<th><a href="https://www.sciencedirect.com/science/article/pii/S0950584920300616">IST 2020</a></th>
 </tr>
 </tbody>
 
@@ -217,6 +224,14 @@ Currently the joint table is in progress, and contributions are more than welcom
 <tr>
 <th>Code Completion with Neural Attention and Pointer Networks</th>
 <th><a href="https://www.ijcai.org/proceedings/2018/578">IJCAI 2018</a></th>
+</tr>
+</tbody>
+
+
+<tbody>
+<tr>
+<th>Stepwise API usage assistance using n-gram language models</th>
+<th><a href="https://www.sciencedirect.com/science/article/pii/S0164121216300917">JSS 2017</a></th>
 </tr>
 </tbody>
 
